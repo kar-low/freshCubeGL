@@ -1,0 +1,2 @@
+/usr/bin/ar qc libSTBlib.a 
+/usr/bin/ranlib libSTBlib.a

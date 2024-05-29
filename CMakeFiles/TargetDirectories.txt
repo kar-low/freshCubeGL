@@ -1,0 +1,3 @@
+/home/karlow/Documents/vidGLproject/CMakeFiles/vidGLproject.dir
+/home/karlow/Documents/vidGLproject/CMakeFiles/edit_cache.dir
+/home/karlow/Documents/vidGLproject/CMakeFiles/rebuild_cache.dir
